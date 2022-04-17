@@ -1,4 +1,4 @@
-<form action="action_page.php">
+<form action="">
   <div class="container">
     <h1>Saby's DevOps Portal</h1>
     <h2> Building DevOps Pipeline demo</h2>
