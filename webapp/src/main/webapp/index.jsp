@@ -1,7 +1,7 @@
 <form action="">
   <div class="container">
-    <h1>Saby's DevOps Portal - Updated last on 17th April 2022</h1>
-    <h2> Building DevOps Pipeline demo</h2>
+    <h1>Saby's DevOps Portal - Updated last on 1st of May April 2022</h1>
+    <h2> Building DevOps Pipeline demo and integrating Ansible</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
