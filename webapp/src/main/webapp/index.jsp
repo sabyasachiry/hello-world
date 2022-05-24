@@ -1,6 +1,6 @@
 <form action="">
   <div class="container">
-    <h1>Saby's DevOps Portal - Updated last on 22nd of May April 2022 and fixed webap.war path</h1>
+    <h1>Saby's DevOps Portal - Updated last on 24th of May</h1>
     <h2> Building DevOps Pipeline demo and integrating Ansible</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
